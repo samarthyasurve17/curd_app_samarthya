@@ -10,17 +10,6 @@
 ✏️ **Update** - Edit existing information seamlessly  
 🗑️ **Delete** - Remove unwanted entries  
 
-## 🛠️ Tech Stack
-
-### Frontend 🎨
-- **Framework**: [Add your frontend technology here]
-- **Styling**: [Add styling framework/library]
-- **State Management**: [Add state management solution]
-
-### Backend ⚙️
-- **Server**: [Add backend framework]
-- **Database**: [Add database technology]
-- **API**: RESTful APIs
 
 ## 📁 Project Structure
 
@@ -92,23 +81,7 @@ curd_app_samarthya/
 4. **Edit** any entry by clicking the edit button
 5. **Delete** entries you no longer need
 
-## 📸 Screenshots
 
-> 🖼️ Add some screenshots of your app in action!
-
-## 🤝 Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create! 
-
-1. **Fork** the Project 🍴
-2. **Create** your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the Branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request 🎁
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
  
 
 ## 🙏 Acknowledgments
